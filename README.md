@@ -7,7 +7,7 @@ https://v3.cn.vuejs.org/guide/introduction.html
 
 
 ## 第一课, 安装
-https://www.bilibili.com/video/BV1oh411Y7Ee
+[视频地址](https://www.bilibili.com/video/BV1oh411Y7Ee)
 
 #### 课程相关
 
