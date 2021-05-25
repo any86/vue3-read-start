@@ -1,5 +1,3 @@
-# 带你读vue3官方文档
-
 ![class](https://user-images.githubusercontent.com/8264787/119430858-143e8700-bd44-11eb-91d4-546a203a4796.jpg)
 
 
