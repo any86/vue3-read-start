@@ -11,16 +11,11 @@ https://v3.cn.vuejs.org/guide/introduction.html
 
 #### 课程相关
 
+[nodejs](https://nodejs.org/en/)
 
-nodejs
 
-https://nodejs.org/en/
 
-vscode
-
-https://code.visualstudio.com/
+[vscode](https://code.visualstudio.com/)
 文中使用的编辑器为vscode,  打开控制台的快捷键是ctrl+j
 
-npm和yarn设置淘宝安装源
-
-https://github.com/any86/Notes/issues/63
+[npm和yarn设置淘宝安装源](https://github.com/any86/Notes/issues/63)
