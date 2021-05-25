@@ -1,7 +1,9 @@
 ![class](https://user-images.githubusercontent.com/8264787/119430858-143e8700-bd44-11eb-91d4-546a203a4796.jpg)
 
 
-vue3文档: https://v3.cn.vuejs.org/guide/introduction.html
+vue3官方文档
+
+https://v3.cn.vuejs.org/guide/introduction.html
 
 
 ## 第一课, 安装
